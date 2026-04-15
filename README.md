@@ -10,10 +10,10 @@ It compiles custom assembly-like scripts into high-fidelity audio using multi-ch
 - Extensible architecture: Modular design makes it easy to implement and add new DSP effects.
 
 ### Introduction:
-See [documentation](https://xeroup.github.io/mus-asm/) for getting started on mus-asm
+See [documentation](https://xeroupw.github.io/mus-asm/) for getting started on mus-asm
 
 ### Installation:
-Download mus-asm from [releases](https://github.com/xeroup/mus-asm/releases).<br>
+Download mus-asm from [releases](https://github.com/xeroupw/mus-asm/releases).<br>
 Place your `.mus` file next to the executable and run it using the command:
 
 ```bash
